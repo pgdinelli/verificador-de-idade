@@ -44,7 +44,7 @@ function verificar() {
                 // Jovem
                 img.setAttribute('src', 'imagens/jovem-mulher.png')
                 classifica.value = 'Jovem'
-            } else if (idade < 50) {
+            } else if (idade < 60) {
                 // Adulto
                 img.setAttribute('src', 'imagens/adulto-mulher.png')
                 classifica.value = 'Adulta'
